@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.2
+pycryptodome==3.18.0
+pyDes==2.0.1
+Requests==2.31.0
+requests_toolbelt==1.0.0
+rsa==4.9
+urllib3==1.26.16
+
+
+numpy
+opencv_python
+Pillow
+PyYAML
+tensorflow
