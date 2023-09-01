@@ -37,7 +37,7 @@
 ---
 3.在`Your old repository’s clone URL`处填入
 ```
-https://github.com/cq-s/CQUPT_HealthyReport
+https://github.com/cq-s/campusphere
 ```
 ---
 4.然后在`Repository name`处填写仓库名,随便填，例如`sign`，选择`Private`
